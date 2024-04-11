@@ -1,0 +1,6 @@
+node_modules
+tsconfig.build.tsbuildinfo
+src/_cjs
+src/_esm
+src/_types
+.env
